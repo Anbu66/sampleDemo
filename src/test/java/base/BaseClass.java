@@ -23,4 +23,8 @@ public class BaseClass {
             driver.quit();
         }
     }
+    private void samplemethod() {
+		// TODO Auto-generated method stub
+
+	}
 }
